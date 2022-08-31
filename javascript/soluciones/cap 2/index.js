@@ -1,1 +1,0 @@
-let array = ["banana","pera","manzana"];
